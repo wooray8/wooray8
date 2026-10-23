@@ -1,60 +1,81 @@
-# Hi, I'm wooray8 👋
+<div align="center">
 
-### AI로 아이디어를 만들고, 배운 것을 기록합니다.
+# SiHeon Woo
+### Devices · Circuits · Intelligent Systems
 
-AI를 활용해 직접 만들어 보는 프로젝트와 학습 자료를 이곳에 모아갑니다.
+Engineering intelligence. From devices to systems.
 
-[GitHub](https://github.com/wooray8) · [Portfolio](https://wooray8.github.io)
+[Portfolio](https://wooray8.github.io/) &nbsp; / &nbsp; [Curriculum Vitae](https://wooray8.github.io/cv.html) &nbsp; / &nbsp; [Email](mailto:woosh315@g.skku.edu)
 
----
-
-## About
-
-- **관심 분야** — AI를 활용한 서비스와 도구 만들기
-- **이곳의 기록** — 프로젝트, 실험 과정, 학습 노트, 참고 자료
-- **포트폴리오** — [wooray8.github.io](https://wooray8.github.io)
-
-<!-- 위 소개는 원하는 내용으로 자유롭게 바꾸세요. -->
-
-## Projects
-
-프로젝트를 정리하고 있습니다. 완성한 결과뿐 아니라 제작 과정과 배운 점도 함께 기록할 예정입니다.
-
-<!-- 프로젝트가 준비되면 위 문장을 지우고 아래 예시를 수정해 사용하세요.
-
-### 프로젝트 이름
-어떤 문제를 해결하기 위해 무엇을 만들었는지 소개하세요.
-
-- 사용 기술: 직접 사용한 기술을 적으세요.
-- 담당한 부분: 직접 구현한 기능을 적으세요.
-- 배운 점: 실험 결과와 개선한 내용을 적으세요.
-- [Code](https://github.com/wooray8/저장소이름) · [Demo](데모주소)
-
--->
-
-## Learning & Resources
-
-공부한 내용을 정리하고, 다시 참고할 자료를 모으는 공간입니다.
-
-<!-- 자료가 준비되면 아래 예시를 수정하고 주석 밖으로 옮기세요.
-
-- [AI 학습 노트](자료주소) — 개념 정리와 실습 기록
-- [논문 및 아티클](자료주소) — 핵심 내용과 나의 생각
-- [발표 자료](자료주소) — 발표 슬라이드와 공유 자료
-
--->
-
-## CV
-
-이력과 활동 내용을 정리해 추가할 예정입니다.
-
-<!-- CV를 이 저장소에 cv.pdf라는 이름으로 업로드한 다음,
-위 문장 대신 아래 링크를 주석 밖에 넣으세요.
-
-[View CV (PDF)](./cv.pdf)
-
--->
+</div>
 
 ---
 
-<sub>Build something. Learn something. Keep a record.</sub>
+I am an undergraduate at **Sungkyunkwan University**, studying **Electronic and Electrical Engineering** and **Advanced Semiconductor Engineering**. My work connects semiconductor interfaces, integrated circuits, embedded electronics, and on-device AI.
+
+I learn by building: frame the problem, implement a system, and test it against reality.
+
+## Education
+
+**Korea Advanced Institute of Science and Technology (KAIST)**  
+School of Electrical and Electronic Engineering  
+**Admitted to the M.S. program · Spring 2027**
+
+**Sungkyunkwan University**  
+Electronic and Electrical Engineering & Advanced Semiconductor Engineering · Double major  
+February 2021 – February 2027 (expected)  
+Overall GPA: **4.20 / 4.50** · Primary-major GPA: **4.29 / 4.50**
+
+**Changwon Science High School**  
+March 2018 – January 2021
+
+## Selected Projects
+
+| Project | Focus & contribution |
+| :--- | :--- |
+| **Capstone Design Project** — On-Device AI for Laundry Care Symbols | Team application recognizing 38 laundry care symbols and providing offline washing guidance. Contributed Figma UI design, debugging, and UI revisions. **Best Project Award.** |
+| **ARES Electronics Team** — Rocket Avionics Development | Led the educational-rocket electronics team. Integrated sensing, flight-data collection, and parachute deployment; analyzed flight logs to investigate deployment behavior. |
+| **Digital Integrated Circuit Design** — CAD Projects 1–5 | Designed and verified CMOS inverters, logic gates, sequential circuits, arithmetic blocks, and SRAM circuits in Cadence Virtuoso, including DRC/LVS verification. |
+
+[Explore project details →](https://wooray8.github.io/#projects)
+
+## Undergraduate Research
+
+**Advanced Nano-Semiconductor Device Laboratory (ANSDL), Sungkyunkwan University**  
+Undergraduate Researcher · Prof. Jin-Hong Park · May – August 2026
+
+- Investigated **MoS₂ / WSe₂ devices** and metal–semiconductor interfaces through literature review.
+- Studied the trade-off between Fermi-level pinning and contact resistance in van der Waals contacts.
+- Participated in flake selection, dry-transfer stacking, and photolithography; used AFM for nanoscale characterization.
+
+[Lab website ↗](https://sites.google.com/site/ansdl2013/home) · [Research overview →](https://wooray8.github.io/#undergraduate-research)
+
+## Selected Coursework
+
+| Course | Grade |
+| :--- | :---: |
+| Physical Electronics · 물리전자 | A+ |
+| Semiconductor Engineering · 반도체공학 | A+ |
+| Semiconductor Processes & Equipment · 반도체공정및장비기술 | A+ |
+| Introduction to Semiconductor Products · 반도체제품개론 | A |
+| Semiconductor Device Fabrication Lab · 반도체소자공정실험 | A+ |
+| Digital Integrated Circuit Design · 디지털집적회로설계 | A |
+
+[Coursework details →](https://wooray8.github.io/#resources)
+
+## Honors & Awards
+
+- **Best Project Award** — SKKU EEE Graduation Project Exhibition, Spring 2026 · Team award  
+  <sub>성균관대학교 전자전기공학부 졸업작품발표회 최우수작품상</sub>
+- **Dean’s List · Two Semesters** — College of Information and Communication Engineering, SKKU  
+  <sub>성균관대학교 정보통신대학 · 1학년 1학기, 3학년 2학기</sub>
+- **Study Club Excellence Award** — ARES Aerospace Club, 2025 activities · Team award  
+  <sub>성균 명품스터디클럽 우수학회 최우수상 · ARES</sub>
+- **Study Club Rookie Excellence Award** — eMerge Academic Society, 2025 activities · Team award  
+  <sub>성균 명품스터디클럽 우수학회 루키우수상 · eMerge</sub>
+
+---
+
+<div align="center">
+<a href="https://wooray8.github.io/">View my portfolio ↗</a>
+</div>
