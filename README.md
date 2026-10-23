@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm wooray8 👋
 
-<!--
-**wooray8/wooray8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI로 아이디어를 만들고, 배운 것을 기록합니다.
 
-Here are some ideas to get you started:
+AI를 활용해 직접 만들어 보는 프로젝트와 학습 자료를 이곳에 모아갑니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[GitHub](https://github.com/wooray8) · [Portfolio](https://wooray8.github.io)
+
+---
+
+## About
+
+- **관심 분야** — AI를 활용한 서비스와 도구 만들기
+- **이곳의 기록** — 프로젝트, 실험 과정, 학습 노트, 참고 자료
+- **포트폴리오** — [wooray8.github.io](https://wooray8.github.io)
+
+<!-- 위 소개는 원하는 내용으로 자유롭게 바꾸세요. -->
+
+## Projects
+
+프로젝트를 정리하고 있습니다. 완성한 결과뿐 아니라 제작 과정과 배운 점도 함께 기록할 예정입니다.
+
+<!-- 프로젝트가 준비되면 위 문장을 지우고 아래 예시를 수정해 사용하세요.
+
+### 프로젝트 이름
+어떤 문제를 해결하기 위해 무엇을 만들었는지 소개하세요.
+
+- 사용 기술: 직접 사용한 기술을 적으세요.
+- 담당한 부분: 직접 구현한 기능을 적으세요.
+- 배운 점: 실험 결과와 개선한 내용을 적으세요.
+- [Code](https://github.com/wooray8/저장소이름) · [Demo](데모주소)
+
 -->
+
+## Learning & Resources
+
+공부한 내용을 정리하고, 다시 참고할 자료를 모으는 공간입니다.
+
+<!-- 자료가 준비되면 아래 예시를 수정하고 주석 밖으로 옮기세요.
+
+- [AI 학습 노트](자료주소) — 개념 정리와 실습 기록
+- [논문 및 아티클](자료주소) — 핵심 내용과 나의 생각
+- [발표 자료](자료주소) — 발표 슬라이드와 공유 자료
+
+-->
+
+## CV
+
+이력과 활동 내용을 정리해 추가할 예정입니다.
+
+<!-- CV를 이 저장소에 cv.pdf라는 이름으로 업로드한 다음,
+위 문장 대신 아래 링크를 주석 밖에 넣으세요.
+
+[View CV (PDF)](./cv.pdf)
+
+-->
+
+---
+
+<sub>Build something. Learn something. Keep a record.</sub>
